@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["Audio","Use this [`Resource`] to play audio."],["AudioOutput","Used internally to play audio on the current “audio device”"],["AudioSource","A source of audio data"],["PlaybackSettings","Settings to control playback from the start."]],"trait":[["Decodable","A type implementing this trait can be decoded as a rodio source"]]};

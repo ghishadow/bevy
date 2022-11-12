@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["draw_2d_graph",""],["draw_3d_graph",""]],"struct":[["BloomPlugin",""],["BloomSettings","Applies a bloom effect to a HDR-enabled 2d or 3d camera."]]};

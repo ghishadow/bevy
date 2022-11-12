@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":[["FXAA_NODE_2D",""],["FXAA_NODE_3D",""]],"enum":[["Sensitivity",""]],"fn":[["prepare_fxaa_pipelines",""]],"struct":[["CameraFxaaPipeline",""],["Fxaa",""],["FxaaPipeline",""],["FxaaPipelineKey",""],["FxaaPlugin","Adds support for Fast Approximate Anti-Aliasing (FXAA)"]]};

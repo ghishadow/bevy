@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["UpscalingMode",""]],"struct":[["UpscalingNode",""],["UpscalingPipeline",""],["UpscalingPipelineKey",""],["UpscalingPlugin",""],["ViewUpscalingPipeline",""]]};

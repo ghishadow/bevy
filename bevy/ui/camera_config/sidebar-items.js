@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["UiCameraConfig","Configuration for cameras related to UI."]]};

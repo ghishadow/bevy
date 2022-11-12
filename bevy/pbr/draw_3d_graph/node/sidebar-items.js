@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":[["SHADOW_PASS","Label for the shadow pass node."]]};

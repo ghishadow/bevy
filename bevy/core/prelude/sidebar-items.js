@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["CorePlugin","Adds core functionality to Apps."],["Name","Component used to identify an entity. Stores a hash for faster comparisons The hash is eagerly re-computed upon each update to the name."],["TaskPoolOptions","Helper for configuring and creating the default task pools. For end-users who want full control, set up `CorePlugin`"]]};

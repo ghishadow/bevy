@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":[["BLOOM","Label for the bloom render node."]]};
